@@ -4,5 +4,5 @@
     <string name="hello_blank_fragment">Hello blank fragment</string>
     <string name="tab_text_1">Food Area</string>
     <string name="tab_text_2">Batik Area</string>
-    <string name="tab_text_3">Destination</string>
+    <string name="tab_text_3">Tourist Destination</string>
 </resources>

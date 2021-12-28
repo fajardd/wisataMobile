@@ -5,4 +5,6 @@
     <string name="tab_text_1">Food Area</string>
     <string name="tab_text_2">Batik Area</string>
     <string name="tab_text_3">Tourist Destination</string>
+    <string name="Register"><a>Register</a></string>
+    <string name="Login"><a>Login</a></string>
 </resources>
